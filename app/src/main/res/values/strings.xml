@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ManagerHome</string>
+    <string name="消費者情報確認">消費者情報確認</string>
+    <string name="品物入力削除">品物入力・削除</string>
+    <string name="店側情報変更">店側情報変更</string>
+    <string name="店側マイページ">店側マイページ</string>
+</resources>
